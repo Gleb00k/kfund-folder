@@ -1,0 +1,27 @@
+body{
+    padding: 20px;
+}
+.input__num{
+    width: 200px;
+    height: 30px;
+    border: 2px dashed coral;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.btn__operator{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgb(212, 230, 224);
+}
+.btn__result{
+    width: 200px;
+    height: 30px;
+    color: white;
+    font-size: 20px;
+    border: 2px dashed rgb(231, 216, 210);
+    background-color: rgb(228, 62, 112);
+    cursor: pointer; 
+}
